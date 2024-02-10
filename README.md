@@ -14,7 +14,7 @@ I am always eager to learn new skills and stay updated with the latest cybersecu
 <h2>🗂️ Cybersecurity Projects:</h2>
 
 - <b>Network Configuration and SSH </b>
-  - [Linux Netwotk Configuration ](https://github.com/Blacxz08/Configure-static-IP)
+  - [IP Configuration(Ubuntu) ](https://github.com/Blacxz08/Configure-static-IP)
   - [SSH (Key-gen, Pair, Connection and best practice)](https://github.com/Blacxz08/Configure-static-IP)
     
 - <b>Secure Copy and Remote Synchronization</b>
