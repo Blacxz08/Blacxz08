@@ -3,12 +3,13 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Network Configuration and SSH </b>
-  - [Network Configuration (static-ip)](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [SSH (Key-gen, Pair, Connection and best practice)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Linux Netwotk Configuration ](https://github.com/Blacxz08/IP-configuration-and-SSH/blob/main/Linux%20and%20Network%20Configuration.docx)
+  - [SSH (Key-gen, Pair, Connection and best practice)](https://github.com/Blacxz08/IP-configuration-and-SSH/blob/main/Key%20Generation%20and%20Remote%20Connection.docx)
+    
 - <b>Secure Copy and Remote Synchronization</b>
   - [SCP vs Rsync](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+    
 - <b>Security Hardening Practices</b>
-  
   - [FireWall Configuration (UFW)](https://github.com/joshmadakor1/AD_PS)
   - [Linux Automated and Scheduled Backup (cron)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
     
