@@ -15,10 +15,10 @@ I am always eager to learn new skills and stay updated with the latest cybersecu
 
 - <b>Network Configuration and SSH </b>
   - [Linux Netwotk Configuration ](https://github.com/Blacxz08/Configure-static-IP)
-  - [SSH (Key-gen, Pair, Connection and best practice)](https://github.com/Blacxz08/SSHkey)
+  - [SSH (Key-gen, Pair, Connection and best practice)](https://github.com/Blacxz08/Configure-static-IP)
     
 - <b>Secure Copy and Remote Synchronization</b>
-  - [SCP vs Rsync](https://github.com/Blacxz08/SCP-vs-Rsync/tree/main)
+  - [SCP vs Rsync](https://github.com/Blacxz08/SCP-vs-Rsync)
     
 - <b>Security Hardening Practices</b>
   - [FireWall Configuration (UFW)](https://github.com/Blacxz08/Firewall-configuration)
