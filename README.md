@@ -23,7 +23,7 @@ I am always eager to learn new skills and stay updated with the latest cybersecu
 - <b>Security Hardening Practices</b>
   - [Overview Security Hardening](https://github.com/Blacxz08/Security-Hardening)
   - [FireWall Configuration (UFW)](https://github.com/Blacxz08/Firewall-configuration)
-  - [Linux Automated and Scheduled Backup (cron)](https://github.com/Blacxz08/Automated-backup)
+  - [Automated and Scheduled Backup (cron)](https://github.com/Blacxz08/Automated-backup)
  
 <h2>🏅 Education:</h2>
 
