@@ -3,15 +3,15 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Network Configuration and SSH </b>
-  - [Linux Netwotk Configuration ](https://github.com/Blacxz08/IP-configuration-and-SSH/blob/main/Linux%20and%20Network%20Configuration.docx)
-  - [SSH (Key-gen, Pair, Connection and best practice)](https://github.com/Blacxz08/IP-configuration-and-SSH/blob/main/Key%20Generation%20and%20Remote%20Connection.docx)
+  - [Linux Netwotk Configuration ](https://github.com/Blacxz08/Configure-static-IP)
+  - [SSH (Key-gen, Pair, Connection and best practice)](https://github.com/Blacxz08/SSHkey)
     
 - <b>Secure Copy and Remote Synchronization</b>
   - [SCP vs Rsync](https://github.com/Blacxz08/SCP-vs-Rsync/tree/main)
     
 - <b>Security Hardening Practices</b>
-  - [FireWall Configuration (UFW)](https://github.com/joshmadakor1/AD_PS)
-  - [Linux Automated and Scheduled Backup (cron)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [FireWall Configuration (UFW)](https://github.com/Blacxz08/Firewall-configuration)
+  - [Linux Automated and Scheduled Backup (cron)](https://github.com/Blacxz08/Automated-backup)
 
 
 <h2>Certifications:</h2>
@@ -21,8 +21,8 @@
   - [Security Operations Center (Cisco)](https://coursera.org/share/38278be4947a8eb8d2686656b4d9e8e1)
     
 
-   [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-   [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+   [<img align="left" alt="Adeiza Michael | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+   [<img align="left" alt="Adeiza  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
