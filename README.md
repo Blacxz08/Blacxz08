@@ -1,4 +1,15 @@
-<h1>Hi, I'm Adeiza Michael! <br/> <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a> </h1> 
+<h1>Hi, I'm Adeiza Michael! <br/> <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a> </h1>
+I am an entry-level cybersecurity analyst, I am passionate about helping organization protect digital assets and ensuring the security of networks. Across learning and practice my skills include SQL, Linux OS, Python, and an evolving mindset for learning and growth, which allows me to adapt to new threats and technologies.
+
+My experience includes:
+
+- Utilizing SQL to qwery databases, ensuring data integrity and security.
+- Familiarity with Linux operating systems, enabling efficient troubleshooting and security measures.
+- Proficiency in Python for automating tasks and developing functions for automation.
+- Basic experience in SIEM querying, enabling efficient threat detection and response.
+- Understanding of incident response plan and its process, ensuring timely and effective remediation of security incidents.
+
+I am always eager to learn new skills and stay updated with the latest cybersecurity trends. 
 
 <h2>🗂️ Cybersecurity Projects:</h2>
 
