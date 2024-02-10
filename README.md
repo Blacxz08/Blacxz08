@@ -23,13 +23,18 @@ I am always eager to learn new skills and stay updated with the latest cybersecu
 - <b>Security Hardening Practices</b>
   - [FireWall Configuration (UFW)](https://github.com/Blacxz08/Firewall-configuration)
   - [Linux Automated and Scheduled Backup (cron)](https://github.com/Blacxz08/Automated-backup)
+ 
+<h2>🏅 Education:</h2>
+
+  - [Google Cybersecurity Course Certificate](https://www.credly.com/badges/e9962757-106d-4d9b-9d2b-e6376992801f/public_url)
+  - [ISC2 Certificate](https://www.credly.com/badges/29a95410-f600-49b1-b8f1-81e227178292/public_url)
+  - [Security Operations Center (Cisco)](https://coursera.org/share/38278be4947a8eb8d2686656b4d9e8e1)
 
 
 <h2>🏅 Certifications:</h2>
 
-  - [Google Cybersecurity Certificate](https://www.credly.com/badges/e9962757-106d-4d9b-9d2b-e6376992801f/public_url)
-  - [ISC2 Certificate](https://www.credly.com/badges/29a95410-f600-49b1-b8f1-81e227178292/public_url)
-  - [Security Operations Center (Cisco)](https://coursera.org/share/38278be4947a8eb8d2686656b4d9e8e1)
+  - [Google Cybersecurity Badge](https://www.credly.com/badges/e9962757-106d-4d9b-9d2b-e6376992801f/public_url)
+  - [ISC2 CC ] (March 2024)
 
  <h2>🔗 Connect With Me:</h2>
   <a href="Michaeladeizajohn@gmail.com">
