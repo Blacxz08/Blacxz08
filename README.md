@@ -2,15 +2,16 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Linux configuration and file transfer protocols</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Security Hardening Mechanisms</b>
-  - [Uncomplicated Firewall](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(UFW)</b></i>
-   - [System Automatic Back-up](https://github.com/joshmadakor1/Sentinel-Lab)
-- <b>PowerShell</b>
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>Network Configuration and SSH key-pair</b>
+  - [Assign Static IP-address](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [SSH (Key-gen, Pair, Connection and best practice)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+- <b>SCP vs Rsync</b>
+  - [Secure Copy (SCP)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+   - [Remote Synchronization (Rsync)](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>Security Hardening Practices</b>
+  
+  - [FireWall Configuration (UFW)](https://github.com/joshmadakor1/AD_PS)
+  - [Linux Automated and Scheduled Backup (cron)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
     
 
      [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
