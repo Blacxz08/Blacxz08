@@ -5,7 +5,7 @@ My experience includes:
 
 - Utilizing SQL to qwery databases, ensuring data integrity and security.
 - Familiarity with Linux operating systems, enabling efficient troubleshooting and security measures.
-- Proficiency in Python for automating tasks and developing functions for automation.
+- Proficiency in Python for automating tasks and working with log files.
 - Basic experience in SIEM querying, enabling efficient threat detection and response.
 - Understanding of incident response plan and its process, ensuring timely and effective remediation of security incidents.
 
