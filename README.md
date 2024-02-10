@@ -21,7 +21,7 @@ I am always eager to learn new skills and stay updated with the latest cybersecu
   - [SCP vs Rsync](https://github.com/Blacxz08/SCP-vs-Rsync)
     
 - <b>Security Hardening Practices</b>
-  - [Overview Security Hardening](https://github.com/Blacxz08/Firewall-configuration)
+  - [Overview Security Hardening](https://github.com/Blacxz08/Security-Hardening)
   - [FireWall Configuration (UFW)](https://github.com/Blacxz08/Firewall-configuration)
   - [Linux Automated and Scheduled Backup (cron)](https://github.com/Blacxz08/Automated-backup)
  
