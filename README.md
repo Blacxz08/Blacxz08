@@ -2,12 +2,11 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Network Configuration and SSH key-pair</b>
-  - [Assign Static IP-address](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Network Configuration and SSH </b>
+  - [Network Configuration (static-ip)](https://github.com/joshmadakor1/Algorithms-Practice)
   - [SSH (Key-gen, Pair, Connection and best practice)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-- <b>SCP vs Rsync</b>
-  - [Secure Copy (SCP)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-   - [Remote Synchronization (Rsync)](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>Secure Copy and Remote Synchronization</b>
+  - [SCP vs Rsync](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Security Hardening Practices</b>
   
   - [FireWall Configuration (UFW)](https://github.com/joshmadakor1/AD_PS)
