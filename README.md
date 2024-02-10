@@ -35,14 +35,3 @@ I am always eager to learn new skills and stay updated with the latest cybersecu
 
   - [Google Cybersecurity Badge](https://www.credly.com/badges/e9962757-106d-4d9b-9d2b-e6376992801f/public_url)
   - [ISC2 CC ] (March 2024)
-
- <h2>🔗 Connect With Me:</h2>
-  <a href="Michaeladeizajohn@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email Icon" width="30" style="margin-right": 10px; display: inline-block;> <span>  </span></a>
-
-
-  <a href="https://medium.com/@AdeizaMichael.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" alt="Medium Icon" width="30" style="margin-right": 10px; display: inline-block;> <span> </span></a>
-
-  <a href="https://medium.com/@AdeizaMichael.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt=Linkedin Icon" width="30" style="margin-right": 10px; display: inline-block;> <span> </span></a>
