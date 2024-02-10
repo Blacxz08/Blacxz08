@@ -7,7 +7,7 @@
   - [SSH (Key-gen, Pair, Connection and best practice)](https://github.com/Blacxz08/IP-configuration-and-SSH/blob/main/Key%20Generation%20and%20Remote%20Connection.docx)
     
 - <b>Secure Copy and Remote Synchronization</b>
-  - [SCP vs Rsync](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [SCP vs Rsync](https://github.com/Blacxz08/SCP-vs-Rsync/tree/main)
     
 - <b>Security Hardening Practices</b>
   - [FireWall Configuration (UFW)](https://github.com/joshmadakor1/AD_PS)
