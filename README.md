@@ -12,10 +12,17 @@
 - <b>Security Hardening Practices</b>
   - [FireWall Configuration (UFW)](https://github.com/joshmadakor1/AD_PS)
   - [Linux Automated and Scheduled Backup (cron)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+
+
+<h2>Certifications:</h2>
+
+  - [Google Cybersecurity Certificate](https://www.credly.com/badges/e9962757-106d-4d9b-9d2b-e6376992801f/public_url)
+  - [ISC2 Certificate](https://www.credly.com/badges/29a95410-f600-49b1-b8f1-81e227178292/public_url)
+  - [Security Operations Center (Cisco)](https://coursera.org/share/38278be4947a8eb8d2686656b4d9e8e1)
     
 
-     [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-     [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+   [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+   [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
