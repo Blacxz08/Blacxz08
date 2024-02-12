@@ -35,4 +35,4 @@ I am always eager to learn new skills and stay updated with the latest cybersecu
 <h2>🏅 Certifications:</h2>
 
   - [Google Cybersecurity Badge](https://www.credly.com/badges/e9962757-106d-4d9b-9d2b-e6376992801f/public_url)
-  - [ISC2 CC ] (March 2024)
+  - [ISC2 CC0- 001 EXAM ] (March 2024)
