@@ -13,14 +13,14 @@ I am always eager to learn new skills and stay updated with the latest cybersecu
 
 <h2>🗂️ Cybersecurity Projects:</h2>
 
-- <b>Network Configuration and SSH </b>
-  - [IP Configuration(Ubuntu) ](https://github.com/Blacxz08/Configure-static-IP)
-  - [SSH (Key-gen, Pair, Connection and best practice)](https://github.com/Blacxz08/Configure-static-IP)
+- <b>CONFIGURING A STATIC IP ADDRESS AND SSH KEY MANAGEMENT: </b>
+  - [Configuring a Static IP address ](https://github.com/Blacxz08/Configure-static-IP)
+  - [SSH Key Generation, Management and Remote Connection](https://github.com/Blacxz08/Configure-static-IP)
     
-- <b>Secure Copy and Remote Synchronization</b>
-  - [SCP vs Rsync](https://github.com/Blacxz08/SCP-vs-Rsync)
+- <b>FILE TRANSFER PROTOCOLS</b>
+  - [Secure Copy (SCP) vs Remote-Synchronization (Rsync)](https://github.com/Blacxz08/SCP-vs-Rsync)
     
-- <b>Security Hardening Practices</b>
+- <b>SECURITY HARDENING PRACTICES AND MECHANISMS</b>
   - [Overview Security Hardening](https://github.com/Blacxz08/Security-Hardening)
   - [FireWall Configuration (UFW)](https://github.com/Blacxz08/Firewall-configuration)
   - [Automated and Scheduled Backup (cron)](https://github.com/Blacxz08/Automated-backup)
