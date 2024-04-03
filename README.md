@@ -1,5 +1,5 @@
-<h1>Hi, I'm Adeiza Michael! <br/> <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a> </h1>
-I am an entry-level cybersecurity analyst, I am passionate about helping organization protect digital assets and ensuring the security of networks. I possess a solid understanding of network basics, and I am inquisitive, always seeking for opportunities to learn and enhance my skill. Across learning and practice, my skills include; SQL, Linux OS, Python, SIEM tools and Packet-sniffer, Security Mindset and an evolving mindset for learning and growth, which allows me to adapt to new threats and technologies.
+<h1>Hi, I'm John Michael! <br/> <a href="https://www.linkedin.com/in/adeizamichael/">Cybersecurity Professional</a> </h1>
+An Entry-level cybersecurity analyst, passionate about helping organization protect digital assets and ensuring the security of networks. I possess a solid understanding of network basics, inquisitive, always seeking for opportunities to learn and enhance my skill. Across learning and practice, my skills include; SQL, Linux OS, Python, SIEM tools and Packet-sniffer, Security Mindset and an evolving mindset for learning and growth, which allows me to adapt to new threats and technologies.
 
 My experience includes:
 
@@ -35,4 +35,4 @@ I am always eager to learn new skills and stay updated with the latest cybersecu
 <h2>🏅 Certifications:</h2>
 
   - [Google Cybersecurity Badge](https://www.credly.com/badges/e9962757-106d-4d9b-9d2b-e6376992801f/public_url)
-  - [ISC2 CC0- 001 EXAM ] (March 2024)
+  - [ISC2 Certified in Cybersecurity] 
