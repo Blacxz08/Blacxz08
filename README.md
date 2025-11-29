@@ -18,33 +18,33 @@ I use GitHub to document my projects, tools, and hands-on learning as I grow int
 <b> 1. 🔐 Security-Hardening </b>
 
 Automated Linux security checks + recommendations for safer systems.
-   [Overview Security Hardening](https://github.com/Blacxz08/Security-Hardening)
+  [Overview Security Hardening](https://github.com/Blacxz08/Security-Hardening)
 
 <b> 2. 🔥 Firewall-Configuration </b>
 
 Firewalld/UFW configuration scripts + rulesets for securing Linux servers 
-  - [Overview Firewall configuration](https://github.com/Blacxz08/Firewall-configuration)
+  [Overview Firewall configuration](https://github.com/Blacxz08/Firewall-configuration)
     
 <b> 3.📡 CONFIGURING STATIC IP ADDRESS AND SSH KEY MANAGEMENT: </b>
 
 Manual & automated configuration of network interfaces + DNS + routing.
-  - [Configuring Static IP address ](https://github.com/Blacxz08/Configure-static-IP)
+  [Configuring Static IP address ](https://github.com/Blacxz08/Configure-static-IP)
 
 <b> 4. 🗄️ Automated Backup System</b>
 
 Python + Bash backup workflow using Cron, Rsync, and compression.
-  - [Automated and Scheduled Backup](https://github.com/Blacxz08/Automated-backup)
+  [Automated and Scheduled Backup](https://github.com/Blacxz08/Automated-backup)
 
  <b>5. 🔑 SCP vs Rsync</b>
 
 A practical comparison and automation examples for secure file transfer.
-  - [Secure Copy (SCP) vs Remote-Synchronization (Rsync)](https://github.com/Blacxz08/SCP-vs-Rsync)
+  [Secure Copy (SCP) vs Remote-Synchronization (Rsync)](https://github.com/Blacxz08/SCP-vs-Rsync)
 
   <b>6. 🛠️ SSH Configuration & Key Management </b>
 Secure SSH setup with key-based authentication, permissions, remote connection and hardening.
-  - [Secure SSH Key Generation](https://github.com/Blacxz08/Configure-static-
+  [Secure SSH Key Generation](https://github.com/Blacxz08/Configure-Ip-address)
 
-<h2> ⚙️ Upcoming Cybersecurity Projects (2024–2025 Roadmap)</h2>
+h2> ⚙️ Upcoming Cybersecurity Projects (2024–2025 Roadmap)</h2>
 	-	✔️ Intrusion Detection Log Monitor (Python)
 	-	✔️ Python Port Scanner
 	-	✔️ SIEM Log Normalization & Alert Rules
