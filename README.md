@@ -43,20 +43,16 @@ A practical comparison and automation examples for secure file transfer.
   <b>6. 🛠️ SSH Configuration & Key Management </b>
 Secure SSH setup with key-based authentication, permissions, remote connection and hardening.
   - [Secure SSH Key Generation](https://github.com/Blacxz08/Configure-static-
-  -
-  
-    
-- 
 
- 
-<h2>🏅 Education:</h2>
-
-  - [Google Cybersecurity Course Certificate](https://www.credly.com/badges/e9962757-106d-4d9b-9d2b-e6376992801f/public_url)
-  - [ISC2 Certificate](https://www.credly.com/badges/29a95410-f600-49b1-b8f1-81e227178292/public_url)
-  - [Security Operations Center (Cisco)](https://coursera.org/share/38278be4947a8eb8d2686656b4d9e8e1)
+<h2> ⚙️ Upcoming Cybersecurity Projects (2024–2025 Roadmap)</h2>
+	•	✔️ Intrusion Detection Log Monitor (Python)
+	•	✔️ Python Port Scanner
+	•	✔️ SIEM Log Normalization & Alert Rules
+	•	✔️ Linux Hardening Automation
+	•	✔️ CTF Writeups Repository
 
 
-<h2>🏅 Certifications:</h2>
+<h2>📞 Contact</h2>
 
-  - [Google Cybersecurity Badge](https://www.credly.com/badges/e9962757-106d-4d9b-9d2b-e6376992801f/public_url)
-  - [ISC2 Certified in Cybersecurity] 
+📩 Email: allstarmichael@icloud.com
+🌍 GitHub: github.com/blacxz08
